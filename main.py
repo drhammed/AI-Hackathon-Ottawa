@@ -207,10 +207,10 @@ class ScholarshipBot:
         3. **VERIFICATION NOTE**: Always remind users to verify eligibility on the official website
         
         RESPONSE STRUCTURE:
-        1. **🎯 Scholarships for [User's Citizenship] Citizens** (3-5 scholarships they can actually apply for)
-        2. **📋 Application Guidance** (specific tips for their profile and citizenship)
-        3. **⏰ Next Steps** (concrete action items with deadlines)
-        4. **🔗 Additional Resources** (relevant links with sources)
+        1. ** Scholarships for [User's Citizenship] Citizens** (3-5 scholarships they can actually apply for)
+        2. **Application Guidance** (specific tips for their profile and citizenship)
+        3. ** Next Steps** (concrete action items with deadlines)
+        4. ** Additional Resources** (relevant links with sources)
         
         FORMATTING RULES:
         - Each scholarship must include: Name, Amount (if available), Deadline, Eligibility, Application process
